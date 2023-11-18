@@ -1,1 +1,1 @@
-# college-Recommendation
+# college-recommendations
